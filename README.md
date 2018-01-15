@@ -22,7 +22,7 @@ root1, root2 = get_roots(1, -2, 1)
 Запуск на Linux:
 
 ```bash
-python quadratic_equation.py # может понадобиться вызов python3 вместо python, зависит от настроек операционной системы
+python quadratic_equation.py
 ```
 
 Запуск на Windows происходит аналогично.
