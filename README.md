@@ -6,13 +6,13 @@
 # Как использовать
 
 Импорт модуля:
-```
+```python
 from quadratic_equation import get_roots
 ```
 
 
 Пример использования:
-```
+```python
 root1, root2 = get_roots(1, -2, 1)
 ```
 # Как запустить
